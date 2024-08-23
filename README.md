@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdyusufkhan26&label=Profile%20views&color=0e75b6&style=flat" alt="mohdyusufkhan26" /> </p>
 
-- 🌱 I’m currently learning Master Data Analysis **Master Data Analysis: Python, Statistics, EDA, Feature Engineering, Power BI, and SQL Server in Comprehensive Bootcamp**
+- 🌱 I’m currently learning **Master Data Analysis: Python, Statistics, EDA, Feature Engineering, Power BI, and SQL Server in Comprehensive Bootcamp**
 
 - 💬 Ask me about **AI, ML & CV.**
 
