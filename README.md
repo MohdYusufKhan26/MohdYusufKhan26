@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Master Data Analysis: Python, Statistics, EDA, Feature Engineering, Power BI, and SQL Server in Comprehensive Bootcamp**
 
-- 💬 Ask me about **AI, ML & CV.**
+- 💬 Ask me about **Data Analysis.**
 
 - 📫 How to reach me **yusufrajput001@gmail.com**
 
